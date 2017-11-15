@@ -1,0 +1,28 @@
+* {
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+h1,
+h2 {
+    color: DarkGreen;
+}
+
+h3 {
+    color: SeaGreen;
+}
+
+.item h1,
+.item h2,
+.item h3 {
+    padding: 0 3rem;
+}
+
+footer {
+    height: 10rem;
+}
+
+.item img {
+    width: 100%;
+}
+
