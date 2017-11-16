@@ -1,0 +1,14 @@
+nav {
+    /*float: right;*/
+    /*position: fixed;*/
+    /*right: 0;*/
+    /*top: 0;*/
+    /*height: 100%;*/
+    border: 2px solid red;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav
