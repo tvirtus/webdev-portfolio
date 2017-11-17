@@ -1,0 +1,17 @@
+.row {
+    border: 2px solid red;
+    margin: auto auto;
+    width: 90%;
+    height: 80%;
+}
+
+.tile {
+    border: 2px solid green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5rem;
+    background-image: url("../resources/images/bulb-banner.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
