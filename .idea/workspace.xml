@@ -1,91 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b68b4f7-4969-45bd-9270-5140107c7959" name="Default" comment="add project thumbnail">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/arts-and-crafts/resources/dasmotos-arts_redline.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-business.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-computer-art.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-data.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-design.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-marketing.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-software.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-campus-mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-campus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-guest-lecture-mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-guest-lecture.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-orientation-mobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-orientation.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/thesis-fisma.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/thesis-now-and-then.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/videos/thesis.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/banner-landingpage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/feature-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/feature-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/filter-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/filter-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/filter-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/filter-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/instagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/photography-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/staff/allie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/staff/andy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/staff/jessica.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/bahia.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/damasio.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/arts-and-crafts/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/arts-and-crafts/resources/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/arts-and-crafts/resources/image_links.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/beach-paradise/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/beach-paradise/resources/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/beach-paradise/resources/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/broadway/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/broadway/resources/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-login.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-on-campus.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-online.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/specs.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/excursion/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/excursion/resources/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/excursion/resources/img-resources.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/ic-about-us.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/ic-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/ic-product-detail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/menu/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/menu/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/my-times/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/my-times/resources/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/paris/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/secret-agent-supply/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/secret-agent-supply/resources/media.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/secret-agent-supply/resources/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/secret-agent-supply/resources/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tea-cozy/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tea-cozy/resources/media.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tea-cozy/resources/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tortoiseshell-optics/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tortoiseshell-optics/resources/media.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tortoiseshell-optics/resources/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tortoiseshell-optics/resources/style.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/jumpstart/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/jumpstart/README.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/jumpstart" afterPath="$PROJECT_DIR$/projects/jumpstart" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="3b68b4f7-4969-45bd-9270-5140107c7959" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/index.html" afterPath="$PROJECT_DIR$/projects/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/main.js" afterPath="$PROJECT_DIR$/projects/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/style.css" afterPath="$PROJECT_DIR$/projects/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/css/style.css" afterPath="$PROJECT_DIR$/resources/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/js/main.js" afterPath="$PROJECT_DIR$/resources/js/main.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -100,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projects/fotomatic/resources/css/style.css">
+        <entry file="file://$PROJECT_DIR$/projects/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="127" column="14" lean-forward="true" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
+            <state relative-caret-position="195">
+              <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -115,8 +36,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -149,8 +70,6 @@
         <option value="$PROJECT_DIR$/beach-paradise/resources/js/main.js" />
         <option value="$PROJECT_DIR$/beach-paradise/index.html" />
         <option value="$PROJECT_DIR$/beach-paradise/resources/css/style.css" />
-        <option value="$PROJECT_DIR$/projects/main.js" />
-        <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/resources/css/index.css" />
         <option value="$PROJECT_DIR$/projects/colmar-academy/resources/css/style.css" />
         <option value="$PROJECT_DIR$/resources/css/reset.css" />
@@ -158,14 +77,16 @@
         <option value="$PROJECT_DIR$/resources/css/style.css" />
         <option value="$PROJECT_DIR$/projects/colmar-academy/index.html" />
         <option value="$PROJECT_DIR$/projects/arts-and-crafts/resources/css/index.css" />
-        <option value="$PROJECT_DIR$/projects/style.css" />
-        <option value="$PROJECT_DIR$/projects/index.html" />
         <option value="$PROJECT_DIR$/projects/tea-cozy/resources/style.css" />
         <option value="$PROJECT_DIR$/resources/js/main.js" />
         <option value="$PROJECT_DIR$/projects/my-times/resources/style.css" />
         <option value="$PROJECT_DIR$/projects/tea-cozy/index.html" />
         <option value="$PROJECT_DIR$/projects/excursion/index.html" />
         <option value="$PROJECT_DIR$/projects/fotomatic/resources/css/style.css" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/projects/main.js" />
+        <option value="$PROJECT_DIR$/projects/index.html" />
+        <option value="$PROJECT_DIR$/projects/style.css" />
       </list>
     </option>
   </component>
@@ -209,27 +130,6 @@
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="fotomatic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="fotomatic" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="fotomatic" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
@@ -306,7 +206,7 @@
       <workItem from="1510772998162" duration="105000" />
       <workItem from="1510773418412" duration="30321000" />
       <workItem from="1511004139483" duration="140000" />
-      <workItem from="1511004288970" duration="7184000" />
+      <workItem from="1511004288970" duration="11477000" />
     </task>
     <task id="LOCAL-00001" summary="add projects;">
       <created>1510852776036</created>
@@ -329,19 +229,26 @@
       <option name="project" value="LOCAL" />
       <updated>1510960985730</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add project thumbnail">
+      <created>1511039879476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1511039879476</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43391000" />
+    <option name="totallyTimeSpent" value="47684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="624" y="0" width="742" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20527045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20527045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -454,7 +361,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/jumpstart/README.md" />
     <entry file="file://$PROJECT_DIR$/resources/Logo.svg" />
-    <entry file="file://$PROJECT_DIR$/test.html" />
     <entry file="file://$PROJECT_DIR$/resources/css/index.css" />
     <entry file="file://$PROJECT_DIR$/projects/jumpstart/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -487,14 +393,6 @@
     <entry file="file://$PROJECT_DIR$/resources/images/bulb-banner.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/colmar-academy/index.html">
@@ -617,30 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
@@ -717,6 +591,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="127" column="14" lean-forward="true" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
           <folding />
         </state>
       </provider>

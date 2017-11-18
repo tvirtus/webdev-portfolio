@@ -1,33 +1,53 @@
 body {
     padding: 5rem .5rem;
+    background-color: hsl(0, 0%, 98%);
+}
+
+main {
+    /*border: 2px solid green;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .row {
-    /*border: 2px solid red;*/
+    /*border: 2px solid blue;*/
     margin: auto auto;
     width: 90%;
     height: 80%;
     align-items: center;
-}
-
-
-
-.tile {
-    border: 2px solid green;
-    display: flex;
-    align-items: center;
     justify-content: center;
-    height: 5rem;
-    background-image: url("../resources/images/bulb-banner.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 img {
-    width:100%;
+    width: 100%;
+    height: auto;
 }
 
 [class*=col-] {
-    border: 1px solid red;
-    padding: .5rem;
+    border: 1px solid hsl(0, 0%, 90%);
+    padding: .8rem;
+    margin: .5rem;
+    background-color: hsl(0, 0%, 95%);
+    border-radius: 1.3rem;
+}
+
+[class*=col-]:active,
+[class*=col-]:hover {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+    -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+    -o-box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+}
+
+a,
+a:hover,
+a:visited {
+    color: white;
+    font-size: 2rem;
+    text-decoration: blink;
+}
+
+h2 {
+    margin: 1rem 0;
 }
