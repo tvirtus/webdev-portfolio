@@ -1,9 +1,16 @@
+body {
+    padding: 5rem .5rem;
+}
+
 .row {
-    border: 2px solid red;
+    /*border: 2px solid red;*/
     margin: auto auto;
     width: 90%;
     height: 80%;
+    align-items: center;
 }
+
+
 
 .tile {
     border: 2px solid green;
@@ -14,4 +21,13 @@
     background-image: url("../resources/images/bulb-banner.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+img {
+    width:100%;
+}
+
+[class*=col-] {
+    border: 1px solid red;
+    padding: .5rem;
 }

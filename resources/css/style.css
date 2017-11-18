@@ -27,6 +27,10 @@ header {
     main {
         padding: .5rem;
     }
+
+    .banner h1 {
+        font-size: 500px;
+    }
 }
 
 /* Navbar container */
@@ -67,13 +71,6 @@ header {
 /* Add a red background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
     color: hsl(0, 0%, 100%);
-}
-
-/*Navbar on small screens*/
-@media only screen and (max-width: 768px) {
-    .navbar ul {
-        justify-content: space-evenly;
-    }
 }
 
 /* The sticky class is added to the navbar with JS when it reaches its scroll position */

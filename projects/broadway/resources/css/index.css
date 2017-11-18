@@ -1,0 +1,33 @@
+* {
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+footer {
+  background-color: dimgrey;
+}
+
+footer span {
+  font-size: 11px;
+  color: white;
+}
+
+/*This white-text calss is for the a tags exluding the ones for phone number and email*/
+.white-text {
+  font-size: 18px;
+  color: white;
+}
+
+/*For page body customizations*/
+.body {
+  text-align: center;
+}
+
+.different-background {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}

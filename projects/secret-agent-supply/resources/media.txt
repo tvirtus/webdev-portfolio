@@ -1,0 +1,9 @@
+Logo image - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/secret-agent-supply/resources/images/logo.png
+
+Main banner background image - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/moto.jpeg
+
+Pen image - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/secret-agent-supply/resources/images/pen.png
+
+Watch image - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/secret-agent-supply/resources/images/watch.png
+
+Glasses image - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/secret-agent-supply/resources/images/glasses.png

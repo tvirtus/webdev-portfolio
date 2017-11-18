@@ -1,13 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b68b4f7-4969-45bd-9270-5140107c7959" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bulb-banner.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/jumpstart" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/bulb-banner.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/logo.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/css/reset.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/Logo.jpg" afterPath="$PROJECT_DIR$/resources/images/Logo.jpg" />
+    <list default="true" id="3b68b4f7-4969-45bd-9270-5140107c7959" name="Default" comment="add project thumbnail">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/arts-and-crafts/resources/dasmotos-arts_redline.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-business.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-computer-art.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-data.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-design.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-marketing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-software.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-campus-mobile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-campus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-guest-lecture-mobile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-guest-lecture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-main.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-orientation-mobile.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-orientation.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/thesis-fisma.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/thesis-now-and-then.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/videos/thesis.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/banner-landingpage.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/feature-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/feature-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/filter-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/filter-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/filter-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/filter-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/instagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/photography-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/staff/allie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/staff/andy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/staff/jessica.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/bahia.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/damasio.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/arts-and-crafts/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/arts-and-crafts/resources/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/arts-and-crafts/resources/image_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/beach-paradise/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/beach-paradise/resources/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/beach-paradise/resources/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/broadway/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/broadway/resources/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-login.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-on-campus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-online.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/colmar-academy/resources/specs.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/excursion/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/excursion/resources/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/excursion/resources/img-resources.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/ic-about-us.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/ic-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/fotomatic/resources/images/ic-product-detail.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/menu/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/menu/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/my-times/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/my-times/resources/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/paris/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/secret-agent-supply/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/secret-agent-supply/resources/media.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/secret-agent-supply/resources/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/secret-agent-supply/resources/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tea-cozy/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tea-cozy/resources/media.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tea-cozy/resources/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tortoiseshell-optics/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tortoiseshell-optics/resources/media.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tortoiseshell-optics/resources/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/tortoiseshell-optics/resources/style.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/jumpstart/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/jumpstart/README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/jumpstart" afterPath="$PROJECT_DIR$/projects/jumpstart" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/index.html" afterPath="$PROJECT_DIR$/projects/index.html" />
@@ -26,12 +98,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/css/style.css">
+        <entry file="file://$PROJECT_DIR$/projects/fotomatic/resources/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="74" column="38" lean-forward="true" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+            <state relative-caret-position="206">
+              <caret line="127" column="14" lean-forward="true" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -54,6 +126,7 @@
       <find>h4</find>
       <find>tile</find>
       <find>col-md-4</find>
+      <find>tile</find>
     </findStrings>
     <replaceStrings>
       <replace>h3</replace>
@@ -80,12 +153,19 @@
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/resources/css/index.css" />
         <option value="$PROJECT_DIR$/projects/colmar-academy/resources/css/style.css" />
-        <option value="$PROJECT_DIR$/resources/js/main.js" />
         <option value="$PROJECT_DIR$/resources/css/reset.css" />
-        <option value="$PROJECT_DIR$/projects/style.css" />
-        <option value="$PROJECT_DIR$/projects/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resources/css/style.css" />
+        <option value="$PROJECT_DIR$/projects/colmar-academy/index.html" />
+        <option value="$PROJECT_DIR$/projects/arts-and-crafts/resources/css/index.css" />
+        <option value="$PROJECT_DIR$/projects/style.css" />
+        <option value="$PROJECT_DIR$/projects/index.html" />
+        <option value="$PROJECT_DIR$/projects/tea-cozy/resources/style.css" />
+        <option value="$PROJECT_DIR$/resources/js/main.js" />
+        <option value="$PROJECT_DIR$/projects/my-times/resources/style.css" />
+        <option value="$PROJECT_DIR$/projects/tea-cozy/index.html" />
+        <option value="$PROJECT_DIR$/projects/excursion/index.html" />
+        <option value="$PROJECT_DIR$/projects/fotomatic/resources/css/style.css" />
       </list>
     </option>
   </component>
@@ -100,7 +180,7 @@
     <option name="width" value="681" />
     <option name="height" value="768" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -118,8 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,6 +209,27 @@
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="fotomatic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="fotomatic" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="fotomatic" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
@@ -147,12 +246,14 @@
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,16 +266,17 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/resources/css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources/images" />
       <recent name="$PROJECT_DIR$/resources" />
       <recent name="$PROJECT_DIR$/resources/css" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/resources/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/images" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/resources/css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -202,7 +304,9 @@
       <workItem from="1510669442788" duration="5018000" />
       <workItem from="1510764102855" duration="623000" />
       <workItem from="1510772998162" duration="105000" />
-      <workItem from="1510773418412" duration="29901000" />
+      <workItem from="1510773418412" duration="30321000" />
+      <workItem from="1511004139483" duration="140000" />
+      <workItem from="1511004288970" duration="7184000" />
     </task>
     <task id="LOCAL-00001" summary="add projects;">
       <created>1510852776036</created>
@@ -218,23 +322,31 @@
       <option name="project" value="LOCAL" />
       <updated>1510918331480</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="style sticky header; add body background">
+      <created>1510960985730</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1510960985730</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35647000" />
+    <option name="totallyTimeSpent" value="43391000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="591" y="0" width="775" height="768" extended-state="6" />
+    <frame x="624" y="0" width="742" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36055276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20527045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24941452" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -249,68 +361,64 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add projects;" />
     <MESSAGE value="link projects; add sticky header" />
-    <option name="LAST_COMMIT_MESSAGE" value="link projects; add sticky header" />
+    <MESSAGE value="style sticky header; add body background" />
+    <MESSAGE value="add project thumbnail" />
+    <option name="LAST_COMMIT_MESSAGE" value="add project thumbnail" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BeachParadise/index.html" />
-    <entry file="file://$PROJECT_DIR$/BeachParadise/index.html" />
     <entry file="file://$PROJECT_DIR$/BeachParadise/resources/css/style.css" />
     <entry file="file://$PROJECT_DIR$/BeachParadise/index.html" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/broadway/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beach-paradise/resources/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beach-paradise/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="69" column="18" lean-forward="true" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beach-paradise/resources/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/broadway/index.html" />
+    <entry file="file://$PROJECT_DIR$/beach-paradise/resources/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/beach-paradise/index.html" />
+    <entry file="file://$PROJECT_DIR$/beach-paradise/resources/css/style.css" />
     <entry file="file://$PROJECT_DIR$/resources/js/turnjs4/samples/basic/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-58">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -333,7 +441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-420">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -345,14 +452,168 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/jumpstart/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/projects/jumpstart/README.md" />
+    <entry file="file://$PROJECT_DIR$/resources/Logo.svg" />
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/resources/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/projects/jumpstart/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/jumpstart/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/colmar-academy/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/images/bulb-banner.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/colmar-academy/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/arts-and-crafts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/arts-and-crafts/resources/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/arts-and-crafts/resources/image_links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/beach-paradise/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/broadway/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/broadway/resources/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="136" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="136" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/broadway/resources/links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/excursion/resources/img-resources.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="110" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/menu/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/my-times/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="111" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="111" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/paris/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="62" column="80" lean-forward="true" selection-start-line="62" selection-start-column="80" selection-end-line="62" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/secret-agent-supply/resources/media.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="65" lean-forward="true" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/tea-cozy/resources/media.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/tortoiseshell-optics/resources/media.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -364,107 +625,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/Logo.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/jumpstart/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/jumpstart/resources/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/colmar-academy/resources/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <marker date="1509907924144" expanded="true" signature="16:18" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        <state relative-caret-position="186">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/images/bulb-banner.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+        <state relative-caret-position="311">
+          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="74" column="38" lean-forward="true" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+        <state relative-caret-position="482">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/tea-cozy/resources/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/turnjs4/samples/steve-jobs/pages/page19.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/my-times/resources/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="170" column="24" lean-forward="false" selection-start-line="170" selection-start-column="24" selection-end-line="170" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/tea-cozy/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-on-campus.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/secret-agent-supply/resources/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/excursion/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="37" column="2" lean-forward="false" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/fotomatic/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="127" column="14" lean-forward="true" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
           <folding />
         </state>
       </provider>

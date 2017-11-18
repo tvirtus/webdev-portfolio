@@ -1,0 +1,9 @@
+Design mock - https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/mocks/excursion.png
+
+Redline mock - https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/mocks/excursion_redline.png
+
+MP4 stock video - https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/videos/excursion.mp4
+
+Landscape image - https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/images/camp.jpg
+
+Cellphone icon - https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/images/phone.png
