@@ -66,3 +66,12 @@ h2 {
 h1 {
     font-size: 4vmin;
 }
+
+/*Social links*/
+.social li {
+    /*margin: 15px;*/
+}
+.social li i{
+    margin: 10px;
+    color: rgba(0, 0, 0, 0.9);
+}
