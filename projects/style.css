@@ -1,17 +1,15 @@
 body {
     padding: 5rem .5rem;
-    background-color: hsl(0, 0%, 98%);
+    background-color: hsla(0, 0%, 98%, 0.5);
 }
 
 main {
-    /*border: 2px solid green;*/
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .row {
-    /*border: 2px solid blue;*/
     margin: auto auto;
     width: 90%;
     height: 80%;
@@ -19,21 +17,34 @@ main {
     justify-content: center;
 }
 
+.row:first-of-type {
+    width: 20%;
+    float: left;
+}
+
+.row:last-of-type {
+    width: 75%;
+}
+
 img {
     width: 100%;
     height: auto;
 }
 
-[class*=col-] {
+.u-frame {
     border: 1px solid hsl(0, 0%, 90%);
     padding: .8rem;
     margin: .5rem;
     background-color: hsl(0, 0%, 95%);
     border-radius: 1.3rem;
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.2),
+    1px -1px 0 rgba(0, 0, 0, 0.2),
+    -1px 1px 0 rgba(0, 0, 0, 0.2),
+    1px 1px 0 rgba(0, 0, 0, 0.2);
 }
 
-[class*=col-]:active,
-[class*=col-]:hover {
+.u-frame:active,
+.u-frame:hover {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
     -moz-box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
     -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
@@ -44,10 +55,14 @@ a,
 a:hover,
 a:visited {
     color: white;
-    font-size: 2rem;
     text-decoration: blink;
 }
 
 h2 {
+    font-size: 3.5vmin;
     margin: 1rem 0;
+}
+
+h1 {
+    font-size: 4vmin;
 }
