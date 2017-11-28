@@ -1,138 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b68b4f7-4969-45bd-9270-5140107c7959" name="Default" comment="add page title and social links">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bulb-banner.jpeg" afterPath="$PROJECT_DIR$/resources/images/bulb-banner.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/arts_and_crafts.html" afterPath="$PROJECT_DIR$/arts-and-crafts/main.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/beach_paradise.html" afterPath="$PROJECT_DIR$/beach-paradise/main.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/broadway.html" afterPath="$PROJECT_DIR$/broadway/main.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/colmar_academy.html" afterPath="$PROJECT_DIR$/colmar-academy/main.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/excursion.html" afterPath="$PROJECT_DIR$/excursion/main.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/fotomatic.html" afterPath="$PROJECT_DIR$/fotomatic/main.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/jumpstart.html" afterPath="$PROJECT_DIR$/jumpstart/main.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/my_times.html" afterPath="$PROJECT_DIR$/my-times/main.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/paris.html" afterPath="$PROJECT_DIR$/paris/main.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/restaurant.html" afterPath="$PROJECT_DIR$/restaurant/main.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/secret_agent_supply.html" afterPath="$PROJECT_DIR$/secret-agent-supply/main.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/tea_cozy.html" afterPath="$PROJECT_DIR$/tea-cozy/main.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/tortoiseshell_optics.html" afterPath="$PROJECT_DIR$/tortoiseshell-optics/main.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/arts-and-crafts/dasmotos-arts_redline.jpg" afterPath="$PROJECT_DIR$/arts-and-crafts/dasmotos-arts_redline.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/arts-and-crafts/images/finnish.jpeg" afterPath="$PROJECT_DIR$/arts-and-crafts/images/finnish.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/arts-and-crafts/images/frames.jpeg" afterPath="$PROJECT_DIR$/arts-and-crafts/images/frames.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/arts-and-crafts/images/hacksaw.jpeg" afterPath="$PROJECT_DIR$/arts-and-crafts/images/hacksaw.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/arts-and-crafts/images/image_links.txt" afterPath="$PROJECT_DIR$/arts-and-crafts/images/image_links.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/arts-and-crafts/images/pattern.jpeg" afterPath="$PROJECT_DIR$/arts-and-crafts/images/pattern.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/beach-paradise/images/bahia.jpeg" afterPath="$PROJECT_DIR$/beach-paradise/images/bahia.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/beach-paradise/images/hunt.jpeg" afterPath="$PROJECT_DIR$/beach-paradise/images/hunt.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/beach-paradise/images/moat.jpeg" afterPath="$PROJECT_DIR$/beach-paradise/images/moat.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/beach-paradise/images/selange.jpeg" afterPath="$PROJECT_DIR$/beach-paradise/images/selange.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/beach-paradise/js/main.js" afterPath="$PROJECT_DIR$/beach-paradise/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/broadway/images/execute.svg" afterPath="$PROJECT_DIR$/broadway/images/execute.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/broadway/images/identify.svg" afterPath="$PROJECT_DIR$/broadway/images/identify.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/broadway/images/the-flatiron-building.png" afterPath="$PROJECT_DIR$/broadway/images/the-flatiron-building.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/broadway/images/understand.svg" afterPath="$PROJECT_DIR$/broadway/images/understand.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/banner.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/banner.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/course-business.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/course-business.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/course-computer-art.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/course-computer-art.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/course-data.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/course-data.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/course-design.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/course-design.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/course-marketing.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/course-marketing.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/course-software.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/course-software.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/favicon.ico" afterPath="$PROJECT_DIR$/colmar-academy/images/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/ic-login.svg" afterPath="$PROJECT_DIR$/colmar-academy/images/ic-login.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/ic-logo.svg" afterPath="$PROJECT_DIR$/colmar-academy/images/ic-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/ic-on-campus.svg" afterPath="$PROJECT_DIR$/colmar-academy/images/ic-on-campus.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/ic-online.svg" afterPath="$PROJECT_DIR$/colmar-academy/images/ic-online.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/information-campus-mobile.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/information-campus-mobile.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/information-campus.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/information-campus.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/information-guest-lecture-mobile.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/information-guest-lecture-mobile.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/information-guest-lecture.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/information-guest-lecture.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/information-main.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/information-main.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/information-orientation-mobile.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/information-orientation-mobile.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/information-orientation.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/information-orientation.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/thesis-fisma.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/thesis-fisma.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/images/thesis-now-and-then.jpg" afterPath="$PROJECT_DIR$/colmar-academy/images/thesis-now-and-then.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/specs.txt" afterPath="$PROJECT_DIR$/colmar-academy/specs.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/colmar-academy/videos/thesis.mp4" afterPath="$PROJECT_DIR$/colmar-academy/videos/thesis.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/arts_and_crafts.css" afterPath="$PROJECT_DIR$/arts-and-crafts/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/beach_paradise.css" afterPath="$PROJECT_DIR$/beach-paradise/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/broadway.css" afterPath="$PROJECT_DIR$/broadway/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/colmar_academy.css" afterPath="$PROJECT_DIR$/colmar-academy/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/excursion.css" afterPath="$PROJECT_DIR$/excursion/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/fotomatic.css" afterPath="$PROJECT_DIR$/fotomatic/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/jumpstart.css" afterPath="$PROJECT_DIR$/jumpstart/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/my_times.css" afterPath="$PROJECT_DIR$/my-times/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/secret_agent_supply.css" afterPath="$PROJECT_DIR$/secret-agent-supply/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/tea_cozy.css" afterPath="$PROJECT_DIR$/tea-cozy/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/tortoiseshell_optics.css" afterPath="$PROJECT_DIR$/tortoiseshell-optics/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/excursion/images/camp.jpg" afterPath="$PROJECT_DIR$/excursion/images/camp.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/excursion/images/phone.png" afterPath="$PROJECT_DIR$/excursion/images/phone.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/excursion/img-resources.txt" afterPath="$PROJECT_DIR$/excursion/images/img-resources.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/excursion/videos/excursion.mp4" afterPath="$PROJECT_DIR$/excursion/videos/excursion.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/banner-landingpage.jpg" afterPath="$PROJECT_DIR$/fotomatic/images/banner-landingpage.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/feature-1.png" afterPath="$PROJECT_DIR$/fotomatic/images/feature-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/feature-2.png" afterPath="$PROJECT_DIR$/fotomatic/images/feature-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/filter-1.png" afterPath="$PROJECT_DIR$/fotomatic/images/filter-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/filter-2.png" afterPath="$PROJECT_DIR$/fotomatic/images/filter-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/filter-3.png" afterPath="$PROJECT_DIR$/fotomatic/images/filter-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/filter-4.png" afterPath="$PROJECT_DIR$/fotomatic/images/filter-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/ic-about-us.svg" afterPath="$PROJECT_DIR$/fotomatic/images/ic-about-us.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/ic-logo.svg" afterPath="$PROJECT_DIR$/fotomatic/images/ic-logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/ic-product-detail.svg" afterPath="$PROJECT_DIR$/fotomatic/images/ic-product-detail.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/instagram.png" afterPath="$PROJECT_DIR$/fotomatic/images/instagram.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/photography-logo.png" afterPath="$PROJECT_DIR$/fotomatic/images/photography-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/staff/allie.png" afterPath="$PROJECT_DIR$/fotomatic/images/staff/allie.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/staff/andy.png" afterPath="$PROJECT_DIR$/fotomatic/images/staff/andy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fotomatic/images/staff/jessica.png" afterPath="$PROJECT_DIR$/fotomatic/images/staff/jessica.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/jumpstart/favicon.png" afterPath="$PROJECT_DIR$/jumpstart/images/favicon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/jumpstart/images/featured-project.png" afterPath="$PROJECT_DIR$/jumpstart/images/featured-project.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/jumpstart/images/jumbotron-beer.jpg" afterPath="$PROJECT_DIR$/jumpstart/images/jumbotron-beer.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/jumpstart/images/jumbotron-bike.jpg" afterPath="$PROJECT_DIR$/jumpstart/images/jumbotron-bike.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/jumpstart/images/jumbotron-duffel.jpg" afterPath="$PROJECT_DIR$/jumpstart/images/jumbotron-duffel.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/jumpstart/images/jumbotron-flowers.jpg" afterPath="$PROJECT_DIR$/jumpstart/images/jumbotron-flowers.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/jumpstart/images/logo.png" afterPath="$PROJECT_DIR$/jumpstart/images/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/jumpstart/images/project1.png" afterPath="$PROJECT_DIR$/jumpstart/images/project1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/jumpstart/images/project2.png" afterPath="$PROJECT_DIR$/jumpstart/images/project2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/jumpstart/images/project3.png" afterPath="$PROJECT_DIR$/jumpstart/images/project3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/jumpstart/js/main.js" afterPath="$PROJECT_DIR$/jumpstart/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/main/images/Logo.jpg" afterPath="$PROJECT_DIR$/resources/images/Logo.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/main/images/logo.ico" afterPath="$PROJECT_DIR$/resources/images/logo.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/main/js/main.js" afterPath="$PROJECT_DIR$/resources/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/my-times/images/img-myt-logo.jpg" afterPath="$PROJECT_DIR$/my-times/images/img-myt-logo.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/my-times/images/img-news-bite.png" afterPath="$PROJECT_DIR$/my-times/images/img-news-bite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/my-times/images/img-story-1.png" afterPath="$PROJECT_DIR$/my-times/images/img-story-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/my-times/images/img-story-2.png" afterPath="$PROJECT_DIR$/my-times/images/img-story-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/my-times/images/img-story-3.png" afterPath="$PROJECT_DIR$/my-times/images/img-story-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/my-times/images/img-story-main.png" afterPath="$PROJECT_DIR$/my-times/images/img-story-main.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/paris/images/freelance1-img_paris-arc.jpg" afterPath="$PROJECT_DIR$/paris/images/freelance1-img_paris-arc.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/paris/images/freelance1-img_paris-eiffel.jpg" afterPath="$PROJECT_DIR$/paris/images/freelance1-img_paris-eiffel.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/paris/images/freelance1-img_paris-louvre.jpg" afterPath="$PROJECT_DIR$/paris/images/freelance1-img_paris-louvre.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/restaurant/images/freelance1-img_caesar-salad.jpg" afterPath="$PROJECT_DIR$/restaurant/images/freelance1-img_caesar-salad.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/restaurant/images/freelance1-img_chocchip-cookie.jpg" afterPath="$PROJECT_DIR$/restaurant/images/freelance1-img_chocchip-cookie.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/restaurant/images/freelance1-img_tomato-soup.jpg" afterPath="$PROJECT_DIR$/restaurant/images/freelance1-img_tomato-soup.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/secret-agent-supply/images/glasses.png" afterPath="$PROJECT_DIR$/secret-agent-supply/images/glasses.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/secret-agent-supply/images/logo.png" afterPath="$PROJECT_DIR$/secret-agent-supply/images/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/secret-agent-supply/images/media.txt" afterPath="$PROJECT_DIR$/secret-agent-supply/images/media.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/secret-agent-supply/images/moto.jpeg" afterPath="$PROJECT_DIR$/secret-agent-supply/images/moto.jpeg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/secret-agent-supply/images/pen.png" afterPath="$PROJECT_DIR$/secret-agent-supply/images/pen.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/secret-agent-supply/images/watch.png" afterPath="$PROJECT_DIR$/secret-agent-supply/images/watch.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tea-cozy/images/img-bedford-bizarre.jpg" afterPath="$PROJECT_DIR$/tea-cozy/images/img-bedford-bizarre.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tea-cozy/images/img-berryblitz.jpg" afterPath="$PROJECT_DIR$/tea-cozy/images/img-berryblitz.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tea-cozy/images/img-donut.jpg" afterPath="$PROJECT_DIR$/tea-cozy/images/img-donut.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tea-cozy/images/img-locations-background.jpg" afterPath="$PROJECT_DIR$/tea-cozy/images/img-locations-background.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tea-cozy/images/img-mission-background.jpg" afterPath="$PROJECT_DIR$/tea-cozy/images/img-mission-background.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tea-cozy/images/img-myrtle-ave.jpg" afterPath="$PROJECT_DIR$/tea-cozy/images/img-myrtle-ave.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tea-cozy/images/img-spiced-rum.jpg" afterPath="$PROJECT_DIR$/tea-cozy/images/img-spiced-rum.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tea-cozy/images/img-tea-cozy-logo.png" afterPath="$PROJECT_DIR$/tea-cozy/images/img-tea-cozy-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tea-cozy/images/media.txt" afterPath="$PROJECT_DIR$/tea-cozy/images/media.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tortoiseshell-optics/images/glasses-bg.png" afterPath="$PROJECT_DIR$/tortoiseshell-optics/images/glasses-bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tortoiseshell-optics/images/logo-black.png" afterPath="$PROJECT_DIR$/tortoiseshell-optics/images/logo-black.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tortoiseshell-optics/images/logo-white.png" afterPath="$PROJECT_DIR$/tortoiseshell-optics/images/logo-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tortoiseshell-optics/images/media.txt" afterPath="$PROJECT_DIR$/tortoiseshell-optics/images/media.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tortoiseshell-optics/images/paper-icon.png" afterPath="$PROJECT_DIR$/tortoiseshell-optics/images/paper-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tortoiseshell-optics/images/ruler-icon.png" afterPath="$PROJECT_DIR$/tortoiseshell-optics/images/ruler-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/tortoiseshell-optics/images/truck-icon.png" afterPath="$PROJECT_DIR$/tortoiseshell-optics/images/truck-icon.png" />
+    <list default="true" id="3b68b4f7-4969-45bd-9270-5140107c7959" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/main.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -148,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/excursion/css/style.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="218">
+              <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -193,8 +63,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="vic" />
         <option value="Victor Trofimciuc &lt;victortrofimciuc@gmail.com&gt;" />
+        <option value="vic" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -291,17 +161,6 @@
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="excursion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="excursion" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -362,7 +221,7 @@
       <workItem from="1510773418412" duration="30321000" />
       <workItem from="1511004139483" duration="140000" />
       <workItem from="1511004288970" duration="12177000" />
-      <workItem from="1511887893127" duration="14714000" />
+      <workItem from="1511887893127" duration="14848000" />
     </task>
     <task id="LOCAL-00001" summary="add projects;">
       <created>1510852776036</created>
@@ -420,11 +279,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511896323651</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="restructure project">
+      <created>1511906211109</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1511906211109</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63098000" />
+    <option name="totallyTimeSpent" value="63232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="598" y="0" width="768" height="768" extended-state="6" />
@@ -493,7 +359,8 @@
     <MESSAGE value="add text-shadow" />
     <MESSAGE value="commenting out projects" />
     <MESSAGE value="add page title and social links" />
-    <option name="LAST_COMMIT_MESSAGE" value="add page title and social links" />
+    <MESSAGE value="restructure project" />
+    <option name="LAST_COMMIT_MESSAGE" value="restructure project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -851,15 +718,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
+    <entry file="file://$PROJECT_DIR$/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="979">
           <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
@@ -871,6 +730,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
           <folding />
         </state>
       </provider>
