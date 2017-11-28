@@ -1,0 +1,229 @@
+/*Universal*/
+html {
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+}
+
+main {
+    padding-top: 50px;
+}
+
+/*Body padding for screens under 768px*/
+@media only screen and (max-width: 768px) {
+    main {
+        padding-top: 135px;
+    }
+}
+
+/*Images*/
+.image-container {
+    overflow: hidden;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    align-self: center;
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 100%;
+    opacity: .7;
+    -webkit-transform: scale(1, 1);
+    -ms-transform: scale(1, 1);
+    transform: scale(1, 1);
+    transition: .5s opacity, .5s transform;
+}
+
+img:hover {
+    -webkit-transform: scale(1.3, 1.3);
+    -ms-transform: scale(1.3, 1.3);
+    transform: scale(1.3, 1.3);
+    opacity: 1;
+}
+
+/*Buttons*/
+.btn-primary {
+    width: 160px;
+    padding: 1.3rem 0;
+    border: 0;
+    margin-top: 2.8rem;
+    background-color: #399bd1;
+    -webkit-box-shadow: 0 0 3px rgba(0 0 0 .5);
+    -moz-box-shadow: 0 0 3px rgba(0 0 0 .5);
+    box-shadow: 0 0 3px rgba(0 0 0 .5);
+    transition: .5s box-shadow, .5s -webkit-box-shadow, .5s -moz-box-shadow;
+}
+
+.btn-primary:hover {
+    background-color: #399bd1;
+    border: 0;
+    -webkit-box-shadow: 0 0 20px rgba(0 0 0 .9);
+    -moz-box-shadow: 0 0 20px rgba(0 0 0 .9);
+    box-shadow: 0 0 20px rgba(0 0 0 .9);
+}
+
+.btn-primary:active {
+    border: 0;
+    -webkit-box-shadow: 0 0 0 rgba(0 0 0 .5);
+    -moz-box-shadow: 0 0 0 rgba(0 0 0 .5);
+    box-shadow: 0 0 0 rgba(0 0 0 .5);
+}
+
+/*Navigation bar*/
+.nav {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.navbar {
+    padding: 0 1rem;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    background-color: #f8f8f8;
+    color: #399bd1;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #595959;
+}
+
+/*Jumbotron*/
+.carousel .jumbotron {
+    padding-top: 10rem;
+    height: 44rem;
+    text-align: center;
+    color: white;
+    text-shadow: -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.carousel .jumbotron-bike {
+    background: url("../jumpstart/images/jumbotron-bike.jpg") no-repeat center;
+}
+
+.carousel .jumbotron-beer {
+    background: url("../jumpstart/images/jumbotron-beer.jpg") no-repeat center;
+}
+
+.carousel .jumbotron-flowers {
+    background: url("../jumpstart/images/jumbotron-flowers.jpg") no-repeat center;
+}
+
+.carousel .jumbotron-duffel {
+    background: url("../jumpstart/images/jumbotron-duffel.jpg") no-repeat center;
+}
+
+.carousel .text-container {
+    width: 51.3rem;
+    max-width: 95%;
+}
+
+.carousel h1 {
+    font-family: 'Monoton', cursive;
+    font-size: 7.1rem;
+}
+
+.carousel h2 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+}
+
+/*Jumbotron for screens under 768px*/
+@media only screen and (max-width: 768px) {
+    .carousel h1 {
+        font-size: 5.7rem;
+    }
+}
+
+/*Button on carousel*/
+.relative-wrapper {
+    position: relative;
+    top: -15rem;
+    width: 100%;
+    text-align: center;
+}
+
+/*Articles*/
+.top-buffer {
+    margin-top: 1.25rem;
+}
+
+.wrapper {
+    padding-bottom: 5.58rem;
+}
+
+.row {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.row > [class*='col-'] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper h1 {
+    color: #399bd1;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+.wrapper h2 {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.wrapper span {
+    display: block;
+    line-height: 1.4;
+    color: rgba(0, 0, 0, .7);
+}
+
+#prod-category h1 {
+    font-size: 1.3rem;
+}
+
+/*Footer*/
+footer {
+    padding: 5.2rem 17%;
+    background-color: #f3f3f3;
+    text-align: center;
+}
+
+footer h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+footer p {
+    padding: 1.4rem 0;
+}
+
+/*Footer for screens under 768px*/
+@media only screen and (max-width: 768px) {
+    footer {
+        padding: 5.2rem 0;
+    }
+}

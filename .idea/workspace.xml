@@ -2,9 +2,115 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b68b4f7-4969-45bd-9270-5140107c7959" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/excursion/videos/excursion.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jumpstart/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jumpstart/images/featured-project.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jumpstart/images/jumbotron-beer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jumpstart/images/jumbotron-bike.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jumpstart/images/jumbotron-duffel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jumpstart/images/jumbotron-flowers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jumpstart/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jumpstart/images/project1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jumpstart/images/project2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jumpstart/images/project3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/jumpstart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/css/jumpstart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/jumpstart/js/main.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/jumpstart" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/menu/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/secret-agent-supply/resources/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/tortoiseshell-optics/resources/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/bahia.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/bulb-banner.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/damasio.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/fall-season.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/glasses-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/moto.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/paris-eiffel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/tea.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/the-flatiron-building.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/tomato-soup.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/arts-and-crafts/index.html" afterPath="$PROJECT_DIR$/pages/arts_and_crafts.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/arts-and-crafts/resources/css/index.css" afterPath="$PROJECT_DIR$/resources/css/arts_and_crafts.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/arts-and-crafts/resources/dasmotos-arts_redline.jpg" afterPath="$PROJECT_DIR$/resources/arts-and-crafts/dasmotos-arts_redline.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/arts-and-crafts/resources/image_links.txt" afterPath="$PROJECT_DIR$/resources/arts-and-crafts/images/image_links.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/beach-paradise/index.html" afterPath="$PROJECT_DIR$/pages/beach_paradise.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/beach-paradise/resources/css/style.css" afterPath="$PROJECT_DIR$/resources/css/beach_paradise.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/beach-paradise/resources/js/main.js" afterPath="$PROJECT_DIR$/resources/beach-paradise/js/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/broadway/index.html" afterPath="$PROJECT_DIR$/pages/broadway.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/broadway/resources/css/index.css" afterPath="$PROJECT_DIR$/resources/css/broadway.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/index.html" afterPath="$PROJECT_DIR$/pages/colmar_academy.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/css/style.css" afterPath="$PROJECT_DIR$/resources/css/colmar_academy.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/banner.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/banner.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-business.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/course-business.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-computer-art.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/course-computer-art.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-data.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/course-data.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-design.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/course-design.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-marketing.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/course-marketing.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/course-software.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/course-software.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/favicon.ico" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-login.svg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/ic-login.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-logo.svg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/ic-logo.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-on-campus.svg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/ic-on-campus.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-online.svg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/ic-online.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-campus-mobile.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/information-campus-mobile.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-campus.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/information-campus.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-guest-lecture-mobile.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/information-guest-lecture-mobile.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-guest-lecture.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/information-guest-lecture.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-main.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/information-main.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-orientation-mobile.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/information-orientation-mobile.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/information-orientation.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/information-orientation.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/thesis-fisma.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/thesis-fisma.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/images/thesis-now-and-then.jpg" afterPath="$PROJECT_DIR$/resources/colmar-academy/images/thesis-now-and-then.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/specs.txt" afterPath="$PROJECT_DIR$/resources/colmar-academy/specs.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/colmar-academy/resources/videos/thesis.mp4" afterPath="$PROJECT_DIR$/resources/colmar-academy/videos/thesis.mp4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/excursion/index.html" afterPath="$PROJECT_DIR$/pages/excursion.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/excursion/resources/css/style.css" afterPath="$PROJECT_DIR$/resources/css/excursion.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/excursion/resources/img-resources.txt" afterPath="$PROJECT_DIR$/resources/excursion/img-resources.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/index.html" afterPath="$PROJECT_DIR$/pages/fotomatic.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/css/style.css" afterPath="$PROJECT_DIR$/resources/css/fotomatic.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/banner-landingpage.jpg" afterPath="$PROJECT_DIR$/resources/fotomatic/images/banner-landingpage.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/feature-1.png" afterPath="$PROJECT_DIR$/resources/fotomatic/images/feature-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/feature-2.png" afterPath="$PROJECT_DIR$/resources/fotomatic/images/feature-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/filter-1.png" afterPath="$PROJECT_DIR$/resources/fotomatic/images/filter-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/filter-2.png" afterPath="$PROJECT_DIR$/resources/fotomatic/images/filter-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/filter-3.png" afterPath="$PROJECT_DIR$/resources/fotomatic/images/filter-3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/filter-4.png" afterPath="$PROJECT_DIR$/resources/fotomatic/images/filter-4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/ic-about-us.svg" afterPath="$PROJECT_DIR$/resources/fotomatic/images/ic-about-us.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/ic-logo.svg" afterPath="$PROJECT_DIR$/resources/fotomatic/images/ic-logo.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/ic-product-detail.svg" afterPath="$PROJECT_DIR$/resources/fotomatic/images/ic-product-detail.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/instagram.png" afterPath="$PROJECT_DIR$/resources/fotomatic/images/instagram.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/photography-logo.png" afterPath="$PROJECT_DIR$/resources/fotomatic/images/photography-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/staff/allie.png" afterPath="$PROJECT_DIR$/resources/fotomatic/images/staff/allie.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/staff/andy.png" afterPath="$PROJECT_DIR$/resources/fotomatic/images/staff/andy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/fotomatic/resources/images/staff/jessica.png" afterPath="$PROJECT_DIR$/resources/fotomatic/images/staff/jessica.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/index.html" afterPath="$PROJECT_DIR$/pages/portfolio.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/main.js" afterPath="$PROJECT_DIR$/resources/js/portfolio.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/menu/index.html" afterPath="$PROJECT_DIR$/pages/restaurant.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/my-times/index.html" afterPath="$PROJECT_DIR$/pages/my_times.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/my-times/resources/style.css" afterPath="$PROJECT_DIR$/resources/css/my_times.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/paris/index.html" afterPath="$PROJECT_DIR$/pages/paris.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/secret-agent-supply/index.html" afterPath="$PROJECT_DIR$/pages/secret_agent_supply.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/secret-agent-supply/resources/media.txt" afterPath="$PROJECT_DIR$/resources/secret-agent-supply/images/media.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/secret-agent-supply/resources/style.css" afterPath="$PROJECT_DIR$/resources/css/secret_agent_supply.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/style.css" afterPath="$PROJECT_DIR$/resources/css/portfolio.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/tea-cozy/index.html" afterPath="$PROJECT_DIR$/pages/tea_cozy.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/tea-cozy/resources/media.txt" afterPath="$PROJECT_DIR$/resources/tea-cozy/images/media.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/tea-cozy/resources/style.css" afterPath="$PROJECT_DIR$/resources/css/tea_cozy.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/tortoiseshell-optics/index.html" afterPath="$PROJECT_DIR$/pages/tortoiseshell_optics.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/tortoiseshell-optics/resources/media.txt" afterPath="$PROJECT_DIR$/resources/tortoiseshell-optics/images/media.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/tortoiseshell-optics/resources/style.css" afterPath="$PROJECT_DIR$/resources/css/tortoiseshell_optics.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/style.css" afterPath="$PROJECT_DIR$/resources/css/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/images/Logo.jpg" afterPath="$PROJECT_DIR$/resources/main/images/Logo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/images/camp.jpg" afterPath="$PROJECT_DIR$/resources/excursion/images/camp.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/images/logo.ico" afterPath="$PROJECT_DIR$/resources/main/images/logo.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/js/main.js" afterPath="$PROJECT_DIR$/resources/main/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/index.html" afterPath="$PROJECT_DIR$/projects/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/style.css" afterPath="$PROJECT_DIR$/projects/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/css/reset.css" afterPath="$PROJECT_DIR$/resources/css/reset.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +124,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projects/style.css">
+      <file leaf-file-name="secret_agent_supply.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/secret_agent_supply.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="28" lean-forward="false" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+            <state relative-caret-position="453">
+              <caret line="62" column="43" lean-forward="true" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -49,6 +155,7 @@
       <find>[class*=col-]</find>
       <find>#000</find>
       <find>font-size</find>
+      <find>https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/</find>
     </findStrings>
     <replaceStrings>
       <replace>h3</replace>
@@ -56,6 +163,7 @@
       <replace>u-frame col-xl-2 col-lg-3 col-md-4 col-sm-6 col-12</replace>
       <replace>.u-frame</replace>
       <replace>rgba(0, 0, 0, 0.6)</replace>
+      <replace>../my-times/images/</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -77,7 +185,6 @@
         <option value="$PROJECT_DIR$/resources/css/index.css" />
         <option value="$PROJECT_DIR$/projects/colmar-academy/resources/css/style.css" />
         <option value="$PROJECT_DIR$/resources/css/reset.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resources/css/style.css" />
         <option value="$PROJECT_DIR$/projects/colmar-academy/index.html" />
         <option value="$PROJECT_DIR$/projects/arts-and-crafts/resources/css/index.css" />
@@ -89,8 +196,33 @@
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/projects/main.js" />
         <option value="$PROJECT_DIR$/projects/my-times/resources/style.css" />
-        <option value="$PROJECT_DIR$/projects/index.html" />
         <option value="$PROJECT_DIR$/projects/style.css" />
+        <option value="$PROJECT_DIR$/projects/index.html" />
+        <option value="$PROJECT_DIR$/projects/page/my-times.html" />
+        <option value="$PROJECT_DIR$/page/excursion.html" />
+        <option value="$PROJECT_DIR$/page/arts_and_crafts.html" />
+        <option value="$PROJECT_DIR$/page/tea_cozy.html" />
+        <option value="$PROJECT_DIR$/page/portfolio.html" />
+        <option value="$PROJECT_DIR$/jumpstart/index.html" />
+        <option value="$PROJECT_DIR$/jumpstart/jumpstart.html" />
+        <option value="$PROJECT_DIR$/page/jumpstart.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pages/tea_cozy.html" />
+        <option value="$PROJECT_DIR$/pages/excursion.html" />
+        <option value="$PROJECT_DIR$/pages/colmar_academy.html" />
+        <option value="$PROJECT_DIR$/pages/arts_and_crafts.html" />
+        <option value="$PROJECT_DIR$/pages/beach_paradise.html" />
+        <option value="$PROJECT_DIR$/pages/broadway.html" />
+        <option value="$PROJECT_DIR$/resources/css/broadway.css" />
+        <option value="$PROJECT_DIR$/pages/tortoiseshell_optics.html" />
+        <option value="$PROJECT_DIR$/pages/paris.html" />
+        <option value="$PROJECT_DIR$/pages/restaurant.html" />
+        <option value="$PROJECT_DIR$/pages/my_times.html" />
+        <option value="$PROJECT_DIR$/resources/css/portfolio.css" />
+        <option value="$PROJECT_DIR$/resources/css/my_times.css" />
+        <option value="$PROJECT_DIR$/pages/portfolio.html" />
+        <option value="$PROJECT_DIR$/resources/css/secret_agent_supply.css" />
+        <option value="$PROJECT_DIR$/pages/secret_agent_supply.html" />
       </list>
     </option>
   </component>
@@ -133,19 +265,6 @@
             <path>
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="tea-cozy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="tea-cozy" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -167,17 +286,17 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resources/images" />
-      <recent name="$PROJECT_DIR$/resources" />
-      <recent name="$PROJECT_DIR$/resources/css" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/resources/js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/resources/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/resources/css" />
+      <recent name="$PROJECT_DIR$/pages" />
+      <recent name="$PROJECT_DIR$/projects/fotomatic" />
+      <recent name="$PROJECT_DIR$/projects/beach-paradise" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -208,7 +327,7 @@
       <workItem from="1510773418412" duration="30321000" />
       <workItem from="1511004139483" duration="140000" />
       <workItem from="1511004288970" duration="12177000" />
-      <workItem from="1511887893127" duration="5385000" />
+      <workItem from="1511887893127" duration="12899000" />
     </task>
     <task id="LOCAL-00001" summary="add projects;">
       <created>1510852776036</created>
@@ -259,19 +378,26 @@
       <option name="project" value="LOCAL" />
       <updated>1511894306483</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add page title and social links">
+      <created>1511896323651</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1511896323651</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53769000" />
+    <option name="totallyTimeSpent" value="61283000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="699" y="0" width="667" height="768" extended-state="6" />
-    <editor active="true" />
+    <frame x="598" y="0" width="768" height="768" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41795665" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4176707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24941452" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -284,7 +410,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -331,169 +456,24 @@
     <MESSAGE value="style project page" />
     <MESSAGE value="add text-shadow" />
     <MESSAGE value="commenting out projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="commenting out projects" />
+    <MESSAGE value="add page title and social links" />
+    <option name="LAST_COMMIT_MESSAGE" value="add page title and social links" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BeachParadise/resources/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/BeachParadise/index.html" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/broadway/index.html" />
-    <entry file="file://$PROJECT_DIR$/beach-paradise/resources/js/main.js" />
-    <entry file="file://$PROJECT_DIR$/beach-paradise/index.html" />
-    <entry file="file://$PROJECT_DIR$/beach-paradise/resources/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/resources/js/turnjs4/samples/basic/index.html" />
-    <entry file="file://$PROJECT_DIR$/resources/js/turnjs4/samples/basic/pages/1.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/js/turnjs4/samples/basic/pages/2.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/js/turnjs4/samples/basic/pages/12.jpg" />
-    <entry file="file://$PROJECT_DIR$/resources/js/turnjs4/lib/turn.js" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/structural.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/jumpstart/README.md" />
-    <entry file="file://$PROJECT_DIR$/resources/Logo.svg" />
-    <entry file="file://$PROJECT_DIR$/resources/css/index.css" />
-    <entry file="file://$PROJECT_DIR$/projects/colmar-academy/resources/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/images/bulb-banner.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/colmar-academy/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/arts-and-crafts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/arts-and-crafts/resources/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/arts-and-crafts/resources/image_links.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/beach-paradise/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/broadway/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/broadway/resources/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="136" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="136" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects/broadway/resources/links.txt" />
-    <entry file="file://$PROJECT_DIR$/projects/excursion/resources/img-resources.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="110" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/menu/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/my-times/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="111" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/paris/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="62" column="80" lean-forward="true" selection-start-line="62" selection-start-column="80" selection-end-line="62" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/secret-agent-supply/resources/media.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="65" lean-forward="true" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/tortoiseshell-optics/resources/media.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/turnjs4/samples/steve-jobs/pages/page19.html" />
-    <entry file="file://$PROJECT_DIR$/resources/js/main.js">
+    <entry file="file://$PROJECT_DIR$/resources/main/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/tea-cozy/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/colmar-academy/resources/images/ic-on-campus.svg">
+    <entry file="file://$PROJECT_DIR$/resources/colmar-academy/images/ic-on-campus.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
@@ -505,38 +485,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/excursion/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="37" column="2" lean-forward="false" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/fotomatic/resources/css/style.css">
+    <entry file="file://$PROJECT_DIR$/resources/css/fotomatic.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="127" column="14" lean-forward="true" selection-start-line="127" selection-start-column="14" selection-end-line="127" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/jumpstart/resources/css/style.css">
+    <entry file="file://$PROJECT_DIR$/resources/css/jumpstart.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="108" column="19" lean-forward="true" selection-start-line="105" selection-start-column="4" selection-end-line="108" selection-end-column="19" />
@@ -544,7 +505,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/style.css">
+    <entry file="file://$PROJECT_DIR$/resources/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-616">
           <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
@@ -552,15 +513,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/jumpstart/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/tea-cozy/resources/style.css">
+    <entry file="file://$PROJECT_DIR$/resources/css/tea_cozy.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="128" column="18" lean-forward="true" selection-start-line="128" selection-start-column="18" selection-end-line="128" selection-end-column="18" />
@@ -568,42 +521,305 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/tea-cozy/resources/media.txt">
+    <entry file="file://$PROJECT_DIR$/projects/jumpstart/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        <state relative-caret-position="-146">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/my-times/resources/style.css">
+    <entry file="file://$PROJECT_DIR$/resources/colmar-academy/specs.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/excursion/img-resources.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="110" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/arts-and-crafts/dasmotos-arts_redline.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/arts-and-crafts/images/image_links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="94" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/tea-cozy/images/media.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="99" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/main/images/tea.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/main/images/damasio.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jumpstart/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/tea-cozy/images/img-tea-cozy-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/tea-cozy/images/img-bedford-bizarre.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/tea-cozy/images/img-berryblitz.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/tea-cozy/images/img-donut.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/tea-cozy/images/img-locations-background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/tea-cozy/images/img-myrtle-ave.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/tea-cozy/images/img-spiced-rum.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/tea-cozy/images/img-mission-background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/main/images/moto.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="117" column="65" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="65" />
+        <state relative-caret-position="210">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/index.html">
+    <entry file="file://$PROJECT_DIR$/resources/js/portfolio.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/style.css">
+    <entry file="file://$PROJECT_DIR$/pages/tea_cozy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="28" lean-forward="false" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/jumpstart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/excursion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="77" lean-forward="false" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/colmar_academy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/arts_and_crafts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/beach_paradise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/broadway.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="47" lean-forward="false" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/broadway.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/tortoiseshell-optics/images/media.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/tortoiseshell_optics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="22" lean-forward="false" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/menu/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/paris.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="70" column="11" lean-forward="true" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/restaurant.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="79" column="9" lean-forward="true" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/my_times.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="67" lean-forward="false" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/portfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="70" column="1" lean-forward="false" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/my_times.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="133" column="29" lean-forward="true" selection-start-line="133" selection-start-column="29" selection-end-line="133" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/secret-agent-supply/images/media.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="129" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="129" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="64" column="30" lean-forward="true" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/secret_agent_supply.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2820">
+          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/secret_agent_supply.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="62" column="43" lean-forward="true" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
           <folding />
         </state>
       </provider>

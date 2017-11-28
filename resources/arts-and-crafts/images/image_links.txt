@@ -1,0 +1,4 @@
+1. Stone - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg
+2. Brushes - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/hacksaw.jpeg
+3. Frames - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/frames.jpeg
+4. Paint - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/finnish.jpeg
